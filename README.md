@@ -20,6 +20,6 @@
 [issues-shield]: https://img.shields.io/github/issues/jc-su/tvm_tensorrt_comparsion.svg?style=for-the-badge
 [issues-url]: https://github.com/jc-su/tvm_tensorrt_comparsion/issues
 [license-shield]: https://img.shields.io/github/license/jc-su/tvm_tensorrt_comparsion.svg?style=for-the-badge
-[license-url]: https://github.com/license/jc-su/tvm_tensorrt_comparsion/blob/main/LICENSE.txt
+[license-url]: https://github.com/jc-su/tvm_tensorrt_comparsion/blob/main/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jcsu/
