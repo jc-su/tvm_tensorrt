@@ -1,0 +1,15 @@
+build
+.cache
+.pkl_memoize_py3
+
+third_party
+
+models/*
+resources/*
+modules/*
+
+!models/.gitkeep
+!resources/.gitkeep
+!modules/.gitkeep
+
+scripts

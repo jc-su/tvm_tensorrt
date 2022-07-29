@@ -1,0 +1,7 @@
+[submodule "third_party/tvm"]
+	path = third_party/tvm
+	url = https://github.com/apache/tvm/
+
+[submodule "third_party/argparse"]
+	path = third_party/argparse
+	url = https://github.com/p-ranav/argparse
