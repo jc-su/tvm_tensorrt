@@ -24,14 +24,17 @@
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/jcsu/
 
-# Install the dependencies
+# Install dependencies
 
 ```bash
 sudo apt install opencv
 ```
+
 Installing TensorRT from [this link](https://developer.nvidia.com/tensorrt)
+
 Installing TVM form [TVM tutorial](https://tvm.apache.org/docs/install/from_source.html)
-Make sure to choose set(USE_LLVM ON) and set(USE_CUDA ON) in build/config.cmake
+
+Make sure to set ```set(USE_LLVM ON)``` and ```set(USE_CUDA ON)``` in build/config.cmake
 
 # How to build
 ```bash
